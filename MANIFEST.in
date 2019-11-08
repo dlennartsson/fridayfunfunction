@@ -1,0 +1,3 @@
+graft dalen2
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  dalen2/jupy *
